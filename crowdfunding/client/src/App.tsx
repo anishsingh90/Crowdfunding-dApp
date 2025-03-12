@@ -12,7 +12,7 @@ export function App() {
 					<ConnectButton
 						client={client}
 						appMetadata={{
-							name: "Example app",
+							name1: "Example app",
 							url: "https://example.com",
 						}}
 					/>
